@@ -16,7 +16,7 @@ We **truly** value:
 <p> <img src="https://skillicons.dev/icons?i=unreal,blender,cpp,cmake,github,git" alt="Tech stack" /> </p>
 
 ```cpp
-// There is no icon for DirectX12 and WinAPI :(
+// There are no icons for DirectX12 and WinAPI :(
 ```
 
 ## 🤝 Contributing
