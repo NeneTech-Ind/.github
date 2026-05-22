@@ -1,6 +1,6 @@
 ![NeneEngine Banner](../assets/banner.png)
 
-## 🌸 About
+## 🌸 About NeneTech Industries
 
 **NeneTech Ind.** is an independent development team founded by BennySpace (Vlasov Daniil) and Wesdmond (Timofey Shabanov) with full focus on building practical, modern and maintainable software.
 
@@ -11,10 +11,20 @@ We **truly** value:
 - modular architecture;
 - experimentation without unnecessary complexity.
 
----
+## 🛠️ Our tech stack
+
+<p> <img src="https://skillicons.dev/icons?i=unreal,blender,cpp,cmake,github,git" alt="Tech stack" /> </p>
+
+```cpp
+// There is no icon for DirectX12 and WinAPI :(
+```
+
+## 🤝 Contributing
+
+The organization is currently in an early stage but feedback and bug reports in issues are welcome.
 
 ## 📫 Contact
 
-For questions, suggestions or collaboration:
+For questions, suggestions (maybe even collaboration):
 
 NeneTech.Ind@proton.me
