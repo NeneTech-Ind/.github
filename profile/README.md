@@ -1,4 +1,4 @@
-![NeneEngine Banner](assets/banner.png)
+![NeneEngine Banner](../assets/banner.png)
 
 ## 🌸 About
 
