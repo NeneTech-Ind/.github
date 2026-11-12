@@ -1,4 +1,4 @@
-![NeneEngine Banner](../assets/banner.jpg)
+![NeneEngine Banner](../assets/banner.png)
 
 ## 🌸 About NeneTech Industries
 
