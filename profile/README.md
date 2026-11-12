@@ -18,13 +18,3 @@ We **truly** value:
 ```cpp
 // There are no icons for DirectX12 and WinAPI :(
 ```
-
-## 🤝 Contributing
-
-The organization is currently in an early stage but feedback and bug reports in issues are welcome.
-
-## 📫 Contact
-
-For questions, suggestions (maybe even collaboration):
-
-NeneTech.Ind@proton.me
