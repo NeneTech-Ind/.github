@@ -1,4 +1,4 @@
-![NeneEngine Banner](../assets/banner.png)
+![NeneEngine Banner](https://raw.githubusercontent.com/NeneTech-Ind/.github/main/assets/banner.png)
 
 ## 🌸 About NeneTech Industries
 
